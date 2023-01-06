@@ -1,4 +1,4 @@
-package net.learning.ReactiveProgramming;
+package net.learning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
