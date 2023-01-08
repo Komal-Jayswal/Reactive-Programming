@@ -1,4 +1,4 @@
-package net.learning.ReactiveFunctions.mapVsflatMap;
+package net.learning.ReactiveFunctionsTest.mapVsflatMap;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
